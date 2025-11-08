@@ -1,11 +1,9 @@
-# 🧭 Route Navigator
+# Route Navigator
 
-## 📖 Overview
+## Overview
 **Route Navigator** is an intelligent digital route assistant designed to help commuters confidently navigate public transportation systems in Nigeria. It eliminates confusion during transit by providing real-time guidance, AI-assisted conversations, and visual maps — transforming uncertainty into clarity.
 
----
-
-## 💡 The Discovery
+## The Discovery
 
 ### The “Unknown Product” Concept
 The idea behind Route Navigator emerged from exploring the **“unknown product”** — an **unseen need** for guidance and clarity during transit. Commuters often rely on strangers for navigation, asking questions like:
@@ -19,9 +17,7 @@ Route Navigator replaces that dependency with a **personal digital guide** that 
 
 It transforms **the unknown journey into a known path**, allowing users to make informed decisions about where to board, alight, and navigate confidently.
 
----
-
-## 🧩 The Problem
+## The Problem
 
 Navigating public transportation in Nigeria is often complex and frustrating, particularly for:
 - Foreigners and tourists  
@@ -36,9 +32,7 @@ Navigating public transportation in Nigeria is often complex and frustrating, pa
 
 These challenges lead to **delays, confusion, stress, and safety risks** for millions of commuters daily.
 
----
-
-## 🚀 The Solution: Route Assistance System
+## The Solution: Route Assistance System
 
 **Route Navigator** introduces an **intelligent Route Assistance System** — a smart, context-aware companion that guides users through every step of their journey.
 
@@ -49,28 +43,24 @@ These challenges lead to **delays, confusion, stress, and safety risks** for mil
 
 This system bridges the gap between **digital navigation** and **real-world public transport**, ensuring users feel both **informed and supported** throughout their trip.
 
----
+## Key Features
 
-## ⚙️ Key Features
-
-### 🗺️ Destination Locator
+### Destination Locator
 - **Search Functionality:** Find landmarks, destinations, or nearby stops.  
 - **Suggested Routes:** Multiple options with estimated travel times.  
 - **Offline Maps:** Downloadable maps for low-connectivity areas.  
 
-### 🚍 Transit Guidance
+### Transit Guidance
 - **Boarding Instructions:** Clear details on bus types and boarding points.  
 - **Fare Estimation:** Estimated cost per route segment.  
 - **Transfer Points:** Information on route changes and connecting vehicles.  
 
-### 📡 Live Tracking & Alerts
+### Live Tracking & Alerts
 - **Real-Time Tracking:** Follows your route and location automatically.  
 - **Bus Stop Alerts:** Notifications when approaching the next stop.  
-- **Traffic Updates:** Displays congestion to suggest alternative paths.  
+- **Traffic Updates:** Displays congestion to suggest alternative paths.
 
----
-
-## 🔄 User Journey Example
+## User Journey Example
 
 | Step | Action | Description |
 |------|---------|-------------|
@@ -80,9 +70,7 @@ This system bridges the gap between **digital navigation** and **real-world publ
 | 4 | **During Transit** | Receive alerts for stops, reroutes, and delays |
 | 5 | **Arrival** | Journey summary and feedback prompt |
 
----
-
-## 🧠 The Reflection
+## The Reflection
 
 Interpreting **“The Unknown Product”** was initially challenging. It seemed like a product that already existed but wasn’t yet recognized — an abstract idea. However, deeper exploration revealed it as an **unseen need** — a pain point users experience daily but rarely express.
 
@@ -98,9 +86,7 @@ As a Product Manager:
 
 Through defining the problem, challenging assumptions, and trusting the discovery process, I learned how to transform uncertainty into an **innovation-driven opportunity**.
 
----
-
-## 🧩 Summary
+## Summary
 **Route Navigator** redefines the way commuters experience public transport by:
 - Providing **AI-based, human-like guidance**
 - Enabling **stress-free and informed navigation**
@@ -108,9 +94,7 @@ Through defining the problem, challenging assumptions, and trusting the discover
 
 It’s not just an app — it’s a **digital companion** that makes every journey a known and comfortable experience.
 
----
-
-## 🏗️ Repository Setup (Future Scope)
+## Repository Setup (Future Scope)
 When building the actual repository, include:
 - `README.md` – Overview and documentation  
 - `CONTRIBUTING.md` – Collaboration guidelines  
@@ -119,10 +103,8 @@ When building the actual repository, include:
 - `/docs` – Design and technical documentation  
 - `/assets` – Icons, maps, and images  
 
----
-
-**Author:** [Your Name]  
-**Role:** Product Manager  
+**Author:** Waheeb Sherifdeen
+**Role:** Product Management Intern 
 **Project:** Route Navigator – The Unknown Product Discovery  
 **Date:** 2025  
 
