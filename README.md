@@ -1,4 +1,4 @@
-# Route Navigator
+# Nav - Route Navigator
 
 ## Overview
 **Route Navigator** is an intelligent digital route assistant designed to help commuters confidently navigate public transportation systems in Nigeria. It eliminates confusion during transit by providing real-time guidance, AI-assisted conversations, and visual maps — transforming uncertainty into clarity.
