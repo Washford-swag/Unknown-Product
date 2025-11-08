@@ -138,12 +138,11 @@ This reflection reshaped the approach to product discovery — emphasizing **emp
 - Expansion to other African transit networks.  
 - **User safety module** (SOS & route sharing).
 
-# 10. System Architecture Diagram
+# 9. System Architecture Diagram
 
 The diagram below illustrates how the **Route Navigator System** components interact — from user input to data processing and feedback delivery.
 
-flowchart TD
-
+```
 %% USER INTERACTION
 U[👤 User<br>(Commuter using mobile app)] -->|Input Destination / Voice Command| UI
 
@@ -165,7 +164,7 @@ AI -->|Response: Guidance / Alerts| UI
 NOTIF -->|Push Alerts / Bus Stop Notifications| U
 UI -->|Feedback / Rating| API
 API -->|Log Performance Data| LOGS
-
+```
 sequenceDiagram
     participant User
     participant App
@@ -189,7 +188,7 @@ sequenceDiagram
     User->>App: Provides feedback after trip
     App->>DB: Saves trip summary and rating
 
-## 9. Summary
+## 10. Summary
 **Route Navigator** represents a new standard for commuter guidance in Nigeria’s public transport ecosystem.  
 It merges **AI**, **mapping**, and **behavioral insight** to deliver a **context-aware, human-like navigation experience** that makes every journey informed and stress-free.
 
