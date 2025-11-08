@@ -1,4 +1,4 @@
-# 🧭 Route Navigator – System Architecture
+# Nav - Route Navigator – System Architecture
 
 ## Document Overview
 This document outlines the **system architecture** for the *Route Navigator* — an intelligent route assistance system designed to simplify public transit navigation across Nigeria. It provides a detailed overview of the system’s conceptual design, problem space, functional modules, user flow, and technology considerations.
