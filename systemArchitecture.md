@@ -166,6 +166,29 @@ NOTIF -->|Push Alerts / Bus Stop Notifications| U
 UI -->|Feedback / Rating| API
 API -->|Log Performance Data| LOGS
 
+sequenceDiagram
+    participant User
+    participant App
+    participant API
+    participant AI
+    participant Route
+    participant DB
+    participant Notif
+
+    User->>App: Launches app, inputs destination
+    App->>API: Sends request (location, destination)
+    API->>AI: Sends user query for interpretation
+    API->>Route: Requests available routes and fares
+    Route-->>API: Returns route list and ETA
+    AI-->>API: Returns conversational guidance
+    API->>DB: Logs user trip and route data
+    API-->>App: Sends complete route and instructions
+    App-->>User: Displays map and AI guidance
+    App->>Notif: Registers for trip alerts
+    Notif-->>User: Sends stop/arrival notifications
+    User->>App: Provides feedback after trip
+    App->>DB: Saves trip summary and rating
+
 ## 9. Summary
 **Route Navigator** represents a new standard for commuter guidance in Nigeria’s public transport ecosystem.  
 It merges **AI**, **mapping**, and **behavioral insight** to deliver a **context-aware, human-like navigation experience** that makes every journey informed and stress-free.
